@@ -1,0 +1,40 @@
+/* Importing Google Font */
+
+
+/* Universal selector for global styles */
+* {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+    background-color: lightyellow;
+    margin: 40px;
+    text-align: left;
+}
+
+/* Heading styles */
+h2 {
+    color: darkred;
+    text-decoration: underline;
+    margin-top: 20px;
+}
+
+/* Paragraph styles */
+p {
+    color: blue;
+    font-size: 18px;
+    margin: 15px 0;
+}
+
+/* Image styling */
+img {
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px gray;
+    
+}
